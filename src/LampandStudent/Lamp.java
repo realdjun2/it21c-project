@@ -1,7 +1,7 @@
-package Lamp;
+package LampandStudent;
 
 
-class Student {
+class Lamp {
     public static void main(String[]args){
        Lamp s = new Lamp("Alphers","Zone-3","20");
         
